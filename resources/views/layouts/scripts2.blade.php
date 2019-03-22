@@ -1,4 +1,6 @@
-<!--[if lt IE 9]>
-<script src="{{ asset('js/html5shiv.js') }}"></script>
-<script src="{{ asset('js/gmaps.js') }}"></script>
-<![endif]-->
+<script src="{{ asset('js/jquery.js') }}"></script>
+<script src="{{ asset('js/bootstrap.min.js') }}"></script>
+<script src="{{ asset('js/jquery.scrollUp.min.js') }}"></script>
+<script src="{{ asset('js/price-range.js') }}"></script>
+<script src="{{ asset('js/jquery.prettyPhoto.js') }}"></script>
+<script src="{{ asset('js/main.js') }}"></script>
